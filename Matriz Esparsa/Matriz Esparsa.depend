@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1509910706 source:/home/matheus/Área de Trabalho/Programas do CodeBLocks/Matriz Esparsa/matriz_esparsa.c
+	<stdlib.h>
+	<stdio.h>
+	"matriz_esparsa.h"
+
+1510012283 parsa.h"
+
+1509909724 /home/matheus/Área de Trabalho/Programas do CodeBLocks/Matriz Esparsa/matriz_esparsa.h
+
+1509910815 source:/home/matheus/Área de Trabalho/Programas do CodeBLocks/Matriz Esparsa/main.c
+	<stdlib.h>
+	<stdio.h>
+	"matriz_esparsa.h"
+
+1509915002 source:c:\users\usuario\downloads\matriz esparsa\main.c
+	<stdlib.h>
+	<stdio.h>
+	"matriz_esparsa.h"
+
+1510012331 c:\users\usuario\downloads\matriz esparsa\matriz_esparsa.h
+
+1510012283 source:c:\users\usuario\downloads\matriz esparsa\matriz_esparsa.c
+	<stdlib.h>
+	<stdio.h>
+	"matriz_esparsa.h"
+
+1510016270 source:/home/matheus/Área de Trabalho/Programas do CodeBLocks/Matriz Esparsa/main.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz_esparsa.h"
+
+1510014682 /home/matheus/Área de Trabalho/Programas do CodeBLocks/Matriz Esparsa/matriz_esparsa.h
+
+1510016229 source:/home/matheus/Área de Trabalho/Programas do CodeBLocks/Matriz Esparsa/matriz_esparsa.c
+	<stdlib.h>
+	<stdio.h>
+	"matriz_esparsa.h"
+
